@@ -78,38 +78,6 @@ Located in `pipe_MIPS32` module:
 - Instructions coded using behavioral constructs
 - Conditional branching, arithmetic, and memory instructions supported
 
----
-
-## 🧪 Testbenches
-
-### Test Case 1: Add Three Numbers
-**Registers**: R1 = 10, R2 = 20, R3 = 25  
-**Operation**: R4 = R1 + R2; R5 = R4 + R3  
-**Expected Output**:
-```
-R4 = 30
-R5 = 55
-```
-
-### Test Case 2: Memory Read/Write
-**Memory[120]** = 85  
-**Operation**: Add 45 → store to Memory[121]  
-**Expected Output**:
-```
-Mem[120] = 85
-Mem[121] = 130
-```
-
-### Test Case 3: Factorial
-**Memory[200]** = N  
-**Compute**: N! and store result in Memory[198]  
-**Example Output for N=7**:
-```
-Mem[200] = 7
-Mem[198] = 5040
-```
-
----
 
 ## ⚠️ Notes
 
