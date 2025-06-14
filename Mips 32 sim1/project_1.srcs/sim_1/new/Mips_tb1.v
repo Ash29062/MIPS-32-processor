@@ -1,21 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Author: Ashmit R Sambrani
 // 
-// Create Date: 14.06.2025 15:27:52
-// Design Name: 
-// Module Name: Mips_tb1
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
+// Create Date: 14.06.2025 14:30:52
+// Design Name: Mips32
+// Module Name: processor
+// Description: A simplified verison of the MIPS-32 5 stage pipelined module
 // 
 //////////////////////////////////////////////////////////////////////////////////
 

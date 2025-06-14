@@ -4,7 +4,7 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/Ash29062/OneDrive - National Institute of Technology Karnataka, Surathkal/Desktop/MIPS-32/project_1/project_1.xpr">
+<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/Ash29062/OneDrive - National Institute of Technology Karnataka, Surathkal/Desktop/MIPS-32/Mips 32 sim1/project_1.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="086de28f81a14df3a5152be140b2cea7"/>
@@ -111,14 +111,14 @@
     </FileSet>
     <FileSet Name="sim_1" Type="SimulationSrcs" RelSrcDir="$PSRCDIR/sim_1" RelGenDir="$PGENDIR/sim_1">
       <Filter Type="Srcs"/>
-      <File Path="$PSRCDIR/sim_1/new/Mips_tb2.v">
+      <File Path="$PSRCDIR/sim_1/new/Mips_tb1.v">
         <FileInfo>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sim_1/new/Mips_tb1.v">
+      <File Path="$PSRCDIR/sim_1/new/Mips_tb2.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="UsedIn" Val="synthesis"/>
