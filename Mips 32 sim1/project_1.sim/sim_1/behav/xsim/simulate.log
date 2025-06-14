@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+R0 -  0
+R1 - 10
+R2 - 20
+R3 - 25
+R4 - 30
+R5 - 55
+$finish called at time : 300 ns : File "C:/Users/Ash29062/OneDrive - National Institute of Technology Karnataka Surathkal/Desktop/MIPS-32/project_1/project_1.srcs/sim_1/new/Mips_tb1.v" Line 60
